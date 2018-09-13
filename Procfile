@@ -1,1 +1,1 @@
-DKBOT: node app.js
+DKBOT: node mybot.js
